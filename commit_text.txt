@@ -1,1 +1,0 @@
-Testing whether vs code is set up as the default text editor for commit messages.
